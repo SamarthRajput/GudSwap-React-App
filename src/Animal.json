@@ -1,0 +1,35 @@
+{
+    "animals": [
+        {
+            "id" : 1,
+            "name": "Ant",
+            "unitValue": 0.05,
+            "imageUrl": "www.google.com/ant.png"
+        }, {
+            "id": 2,
+            "name": "Cat",
+            "unitValue": 0.1,
+            "imageUrl": "www.google.com/cat.png"
+        }, {
+            "id": 3,
+            "name": "Dog",
+            "unitValue": 0.2,
+            "imageUrl": "www.google.com/dog.png"
+        }, {
+            "id": 4,
+            "name": "Horse",
+            "unitValue": 0.25,
+            "imageUrl": "www.google.com/horse.png"
+        }, {
+            "id" : 5,
+            "name": "Elephant",
+            "unitValue" : 0.5,
+            "imageUrl" : "www.google.com/elephant.png"
+        }, {
+            "id" : 6,
+            "name": "Dragon",
+            "unitValue": 1.0,
+            "imageUrl" : "www.google.com/dragon.png"
+        }
+    ]
+}
